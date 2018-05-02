@@ -2,4 +2,4 @@
 
 Title says it all.
 
-Schoolproject of designpatterns.
+School project of designpatterns.
