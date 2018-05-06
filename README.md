@@ -2,4 +2,4 @@
 
 Title says it all.
 
-School project of designpatterns.
+School project demonstrating the Abstract factory design pattern.
